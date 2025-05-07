@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-deb_gui_installer.egg-info/PKG-INFO
-deb_gui_installer.egg-info/SOURCES.txt
-deb_gui_installer.egg-info/dependency_links.txt
-deb_gui_installer.egg-info/entry_points.txt
-deb_gui_installer.egg-info/requires.txt
-deb_gui_installer.egg-info/top_level.txt
