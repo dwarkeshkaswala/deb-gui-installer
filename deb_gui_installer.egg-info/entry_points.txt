@@ -1,0 +1,2 @@
+[console_scripts]
+deb-installer = src.main:main
